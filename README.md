@@ -1,5 +1,5 @@
 # Calculadora-de-Or-amento-
-Calculadora de Orçamento de Leads
+Calculadora de Orçamento campanha 
 
 Descrição
 Este projeto tem como objetivo ajudar empresas a calcular quanto podem investir em média por lead para alcançar uma venda.
